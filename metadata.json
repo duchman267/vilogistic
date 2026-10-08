@@ -1,0 +1,6 @@
+{
+  "name": "Vilogistic STTB Generator",
+  "description": "Aplikasi pembuatan, pratinjau langsung, dan cetak Surat Tanda Terima Barang (STTB) resmi Vilogistic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

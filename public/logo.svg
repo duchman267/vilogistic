@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" width="100%" height="100%">
+  <!-- Vilogistic Official Emblem -->
+  <g transform="translate(10, 5)">
+    <!-- Orange Accent Triangle Facet -->
+    <polygon points="175,10 305,10 215,108" fill="#FF7A00" />
+    
+    <!-- Deep Navy Main V Shape Ribbon -->
+    <polygon points="110,10 152,10 205,160 272,55 318,65 224,208 190,208" fill="#0B1354" />
+  </g>
+
+  <!-- Vilogistic Wordmark -->
+  <g transform="translate(20, 248)">
+    <text font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="64" letter-spacing="-1.5px">
+      <tspan fill="#FF7A00">vi</tspan><tspan fill="#0B1354">logistic</tspan>
+    </text>
+  </g>
+</svg>
